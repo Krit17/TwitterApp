@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TwitterApp</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">YpR8aJLJr39hJPekJoV9yrQe5</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">6T3f2CABtXoe1KTKYS7Nknese1QXmEQqev136btYcrgtuXOJ2b</string>
+    <string name="title_activity_time_line">TimeLine</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
